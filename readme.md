@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with more then
 
 ## 🔭 Projects
 
-- **[.NET design patterns](https://github.com/vladopandzic/.net-design-patterns)):** A repository containing all design patterns examples in .NET.
-- **[Job application tracker](https://github.com/vladopandzic/job-application-tracker)):** Small application hosted on AWS for tracking of job applications written using Blazor, ASP.NET WebApi, DDD, CQRS and more.
+- **[.NET design patterns](https://github.com/vladopandzic/.net-design-patterns):** A repository containing all design patterns examples in .NET.
+- **[Job application tracker](https://github.com/vladopandzic/job-application-tracker):** Small application hosted on AWS for tracking of job applications written using Blazor, ASP.NET WebApi, DDD, CQRS and more.
 
 ## 💬 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vladopandzic)
+- **LinkedIn:** [My linkedin profile](https://www.linkedin.com/in/vladopandzic)
