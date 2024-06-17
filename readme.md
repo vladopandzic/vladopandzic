@@ -11,12 +11,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with more then
 
 ## 🎓 Education
 
-- **[Master degree] in [Computer sience]**, [University of Split, Croatia]  
+- **Master degree in computer science**, [University of Split, Croatia]  
 
 
 ## 📜 Certifications
 
-- **[AWS Cerrtified developer]**, [AWS]  
+- **AWS Certified developer**, [AWS]  
   *Issued: 04/2024*
 
 
