@@ -9,6 +9,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with more then
 - **Databases:** SqlServer, PostgreSQL
 - **Tools & Platforms:** Git, Docker, AWS, Jenkins
 
+## 🎓 Education
+
+- **[Master degree] in [Computer sience]**, [University of Split, Croatia]  
+
+
+## 📜 Certifications
+
+- **[AWS Cerrtified developer]**, [AWS]  
+  *Issued: 04/2024*
+
+
 ## 🌱 Currently Learning
 
 - Azure AI services
