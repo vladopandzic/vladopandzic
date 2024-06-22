@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with more then
 
 - **AWS Certified developer**, [AWS]  
   *Issued: 04/2024*
+- ** Microsoft Certified: Azure AI Fundamentals [Microsoft]
+*Issued: 06/2024*
 
 
 ## 🌱 Currently Learning
