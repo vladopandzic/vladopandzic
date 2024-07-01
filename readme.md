@@ -1,6 +1,6 @@
 # Hello, I'm Vlado 
 
-Welcome to my GitHub profile! I'm a passionate software developer with more then 12 years of experience. Here's a bit about me:
+Welcome to my GitHub profile! I'm software developer with more then 12 years of experience. Here's a bit about me:
 
 ## 🛠️ Skills
 
