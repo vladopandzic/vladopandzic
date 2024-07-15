@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm software developer with more then 12 years of 
   *Issued: 04/2024*
 - **Microsoft Certified: Azure AI Fundamentals** [Microsoft]
 *Issued: 06/2024*
+- **Microsoft Certified: Azure Data Fundamentals** [Microsoft]
+*Issued: 07/2024*
 
 
 ## 🌱 Currently Learning
