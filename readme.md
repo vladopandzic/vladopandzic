@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm software developer with more then 12 years of 
 
 - **Programming Languages:** C#, Javascript, Java
 - **Web Development:** HTML, CSS, React, Blazor
-- **Databases:** SqlServer, PostgreSQL
-- **Tools & Platforms:** Git, Docker, AWS, Jenkins
+- **Databases and related technologies:** SqlServer, PostgreSQL, EF Core
+- **Tools & Platforms:** Git, Docker, AWS, Jenkins, Azure
 
 ## 🎓 Education
 
